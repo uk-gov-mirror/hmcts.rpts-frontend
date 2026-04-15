@@ -68,7 +68,7 @@
     "allure-playwright": "3.4.3",
     "axios-debug-log": "^1.0.0",
     "babel-loader": "^10.0.0",
-    "chai": "5.3.3",
+    "chai": "6.2.2",
     "chai-as-promised": "^8.0.2",
     "codeceptjs": "^3.7.5",
     "copy-webpack-plugin": "^13.0.1",
